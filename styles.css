@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+}
+.Main{
+	background-color:#f5f5f5;
+}
+.box{
+	background-color:white;
+	border:1px solid grey;
+	/* width:100px; */
+	height:100;
+	margin:20px;
+	padding-left:10px;
+	
+}
+
+.Sec{
+	text-align:right;
+	padding-right:10px;
+	font-style:italic;
+}
